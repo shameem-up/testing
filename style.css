@@ -1,0 +1,30 @@
+body, html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-image: url(background1.jfif);
+    background-size: 100% 100%;
+}
+
+h1 {
+    color: aqua;
+    font-family: 'Silkscreen', cursive;
+}
+
+.btn-danger {
+    font-size: 1rem;
+    font-weight:bold;
+    border-radius: 30px;
+}
+
+.btn-danger:hover {
+    background-color: brown;
+    transform: scale(1.3);
+}
+
+.buffer {
+    height: 8rem;
+}
+
